@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Food Truck Finder</string>
+    <string name="title_activity_truck_register">TruckRegister</string>
+    <string name="title_activity_customer_register">CustomerRegister</string>
+    <string name="title_activity_customer_menu">CustomerMenu</string>
+    <string name="title_activity_find_food_truck">Map</string>
+</resources>
